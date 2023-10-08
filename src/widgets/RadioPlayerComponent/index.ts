@@ -1,3 +1,3 @@
 import RadioPlayer from './RadioPlayer.vue';
 
-export { RadioPlayer };
+export default RadioPlayer;

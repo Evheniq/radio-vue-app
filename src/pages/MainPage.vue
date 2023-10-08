@@ -2,7 +2,7 @@
 
 import HeaderComponent from "../widgets/HeaderComponent.vue";
 import FooterComponent from "../widgets/FooterComponent.vue";
-import RadioPlayerComponent from "../widgets/RadioPlayerComponent/RadioPlayer.vue";
+import RadioPlayerComponent from "../widgets/RadioPlayerComponent";
 </script>
 
 <template>
