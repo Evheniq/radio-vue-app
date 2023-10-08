@@ -1,7 +1,11 @@
 export class TrackService {
-    public async getTracks(): Promise<any> {
-        return new Promise.resolve(() => {
-            return {
+    public async getTracks(): Promise<{
+        playingTrackResponse: any,
+        historyTracksResponse: any[],
+        errorMessageResponse: null,
+    }> {
+        return new Promise((resolve) => () => {
+            resolve({
                 playingTrackResponse: {
                     "artist": "1Shawn Mendes",
                     "duration": "00:02:52",
@@ -32,7 +36,7 @@ export class TrackService {
                     }
                 ],
                 errorMessageResponse: null
-            }
+            })
         })
     }
 }
