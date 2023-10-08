@@ -43,13 +43,9 @@ const intervalId = setInterval(updateProgress, 1000);
 
 onMounted(() => {
   updateProgress()
-  console.log(startTime)
 });
 onUnmounted(() => clearInterval(intervalId));
 
-onMounted(() => {
-  // console.log(progress)
-})
 </script>
 
 <template>

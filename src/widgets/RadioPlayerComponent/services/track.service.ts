@@ -1,5 +1,5 @@
-import {ITrack} from "../types/track.ts";
 // import axios, {AxiosResponse} from "axios/index";
+import {ITrack} from "../types/track.ts";
 import dataUntyped from "../../../assets/radio-data.json";
 
 interface TrackResponse {
