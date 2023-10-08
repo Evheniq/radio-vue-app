@@ -1,22 +1,19 @@
 <script setup lang="ts">
-
 import HeaderComponent from "../widgets/HeaderComponent.vue";
 import FooterComponent from "../widgets/FooterComponent.vue";
-import RadioPlayerComponent from "../widgets/RadioPlayerComponent";
+import RadioPlayer from "../widgets/RadioPlayerComponent";
 </script>
 
 <template>
+  <!-- Some header start -->
+  <header-component />
+  <!-- Some header end -->
 
-<!-- Some header start -->
-<header-component />
-<!-- Some header end -->
+  <RadioPlayer />
 
-  <RadioPlayerComponent></RadioPlayerComponent>
-
-<!-- Some footer start -->
-<footer-component />
-<!-- Some footer end -->
-
+  <!-- Some footer start -->
+  <footer-component />
+  <!-- Some footer end -->
 </template>
 
 <style scoped>
