@@ -1,0 +1,225 @@
+{
+  "nowplaying": [
+    {
+      "artist": "Shawn Mendes",
+      "duration": "00:02:52",
+      "iTunesTrackUrl": "https://music.apple.com/gb/album/wonder/1533345318?i=1533345325&uo=4",
+      "imageUrl": "https://is5-ssl.mzstatic.com/image/thumb/Music114/v4/ab/65/36/ab653661-1b63-ca02-0f19-aed1b5c1ed9c/source/450x450bb.jpg",
+      "status": "playing",
+      "time": "2023-10-08T02:12:16Z",
+      "title": "Wonder"
+    },
+    {
+      "artist": "Calvin Harris",
+      "duration": "00:03:29",
+      "iTunesTrackUrl": "https://itunes.apple.com/gb/album/im-not-alone-radio-edit/id325074586?i=325074674&uo=4",
+      "imageUrl": "http://is4.mzstatic.com/image/thumb/Music118/v4/9d/33/a6/9d33a665-464a-f532-17f1-92dac4368eb8/source/450x450bb.jpg",
+      "status": "history",
+      "time": "2023-10-08T02:08:54Z",
+      "title": "I'm Not Alone"
+    },
+    {
+      "artist": "Becky Hill",
+      "duration": "00:02:47",
+      "iTunesTrackUrl": "https://music.apple.com/gb/album/remember/1570736949?i=1570736952&uo=4",
+      "imageUrl": "https://is5-ssl.mzstatic.com/image/thumb/Music125/v4/6c/c5/c2/6cc5c243-7151-05b8-6942-b98168cefa01/21UMGIM47963.rgb.jpg/450x450bb.jpg",
+      "status": "history",
+      "time": "2023-10-08T02:06:10Z",
+      "title": "Remember (Feat. David Guetta)"
+    },
+    {
+      "artist": "Orson",
+      "duration": "00:02:47",
+      "iTunesTrackUrl": "https://itunes.apple.com/gb/album/no-tomorrow/id128384478?i=128384544&uo=4",
+      "imageUrl": "http://is1.mzstatic.com/image/thumb/Music/v4/5e/c1/5e/5ec15ec9-8d0c-14ee-5c68-3a7f8f6e0107/source/450x450bb.jpg",
+      "status": "history",
+      "time": "2023-10-08T02:03:24Z",
+      "title": "No Tomorrow"
+    },
+    {
+      "artist": "Justin Bieber",
+      "duration": "00:02:50",
+      "iTunesTrackUrl": "https://music.apple.com/gb/album/hold-on/1556175419?i=1556175852&uo=4",
+      "imageUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music124/v4/6d/78/65/6d786571-271b-3fb0-9612-05162bb6b5ae/source/450x450bb.jpg",
+      "status": "history",
+      "time": "2023-10-08T02:00:35Z",
+      "title": "Hold On"
+    },
+    {
+      "artist": "Chris Malinchak",
+      "duration": "00:02:38",
+      "iTunesTrackUrl": "https://itunes.apple.com/gb/album/so-good-to-me-radio-edit/id1216909349?i=1216909350&uo=4",
+      "imageUrl": "http://is5.mzstatic.com/image/thumb/Music122/v4/e7/9f/d0/e79fd070-3ed1-cbd9-15c6-a72f8d85e7e8/source/450x450bb.jpg",
+      "status": "history",
+      "time": "2023-10-08T01:57:50Z",
+      "title": "So Good to Me"
+    },
+    {
+      "artist": "Culture Beat",
+      "duration": "00:04:17",
+      "iTunesTrackUrl": "https://itunes.apple.com/gb/album/mr-vain-original-radio-edit/id505475118?i=505475126&uo=4",
+      "imageUrl": "http://is3.mzstatic.com/image/thumb/Music/v4/2e/81/ba/2e81ba4c-9886-7bd6-a34d-88880b712ac1/source/450x450bb.jpg",
+      "status": "history",
+      "time": "2023-10-08T01:53:38Z",
+      "title": "Mr Vain"
+    },
+    {
+      "artist": "Praise Cats, Andrea Love",
+      "duration": "00:03:42",
+      "iTunesTrackUrl": "https://music.apple.com/gb/album/shined-on-me-feat-andrea-love/1478766567?i=1478766569&uo=4",
+      "imageUrl": "https://is4-ssl.mzstatic.com/image/thumb/Music113/v4/0f/d3/f0/0fd3f018-315c-ace8-f634-e0bd21490252/8718522270475.png/450x450bb.jpg",
+      "status": "history",
+      "time": "2023-10-08T01:49:55Z",
+      "title": "Shined on Me"
+    },
+    {
+      "artist": "Sigala X Gabry Ponte X Alex Gaudino",
+      "duration": "00:02:54",
+      "status": "history",
+      "time": "2023-10-08T01:47:00Z",
+      "title": "Rely on Me"
+    },
+    {
+      "artist": "Sash!",
+      "duration": "00:03:26",
+      "status": "history",
+      "time": "2023-10-08T01:43:38Z",
+      "title": "Equador"
+    },
+    {
+      "artist": "Delerium Feat. Sarah McLachlan",
+      "duration": "00:03:48",
+      "iTunesTrackUrl": "https://music.apple.com/gb/album/silence-feat-sarah-mclachlan-radio-edit/1412145121?i=1412145192&uo=4",
+      "imageUrl": "https://is5-ssl.mzstatic.com/image/thumb/Music122/v4/5d/81/c3/5d81c3e7-950e-f824-a6a4-80c286a6ac0f/18UMGIM42192.rgb.jpg/450x450bb.jpg",
+      "status": "history",
+      "time": "2023-10-08T01:39:50Z",
+      "title": "Silence"
+    },
+    {
+      "artist": "CamelPhat",
+      "duration": "00:03:43",
+      "iTunesTrackUrl": "https://itunes.apple.com/gb/album/cola/1247588439?i=1247588952&uo=4",
+      "imageUrl": "http://is4.mzstatic.com/image/thumb/Music127/v4/e7/96/e0/e796e022-2c1d-e820-5c94-42b424ebc5aa/source/450x450bb.jpg",
+      "status": "history",
+      "time": "2023-10-08T01:35:59Z",
+      "title": "Cola"
+    },
+    {
+      "artist": "Yves Larock",
+      "duration": "00:02:48",
+      "iTunesTrackUrl": "https://itunes.apple.com/gb/album/rise-up/id1257927615?i=1257928038&uo=4",
+      "imageUrl": "http://is3.mzstatic.com/image/thumb/Music111/v4/33/11/b3/3311b3b4-94c8-2153-7bfb-8de903de0ef5/source/450x450bb.jpg",
+      "status": "history",
+      "time": "2023-10-08T01:33:14Z",
+      "title": "Rise Up"
+    },
+    {
+      "artist": "Paul Johnson",
+      "duration": "00:03:13",
+      "iTunesTrackUrl": "https://itunes.apple.com/gb/album/get-get-down-radio-edit/id1217232279?i=1217232347&uo=4",
+      "imageUrl": "http://is4.mzstatic.com/image/thumb/Music111/v4/6b/aa/b1/6baab1a2-af25-ad08-edb0-ae4aad4342d6/source/450x450bb.jpg",
+      "status": "history",
+      "time": "2023-10-08T01:30:04Z",
+      "title": "Get Get Down"
+    },
+    {
+      "artist": "Blonde",
+      "duration": "00:03:04",
+      "iTunesTrackUrl": "https://music.apple.com/gb/album/i-loved-you-feat-melissa-steel/913646078?i=913646128&uo=4",
+      "imageUrl": "https://is5-ssl.mzstatic.com/image/thumb/Music115/v4/92/4d/68/924d68c7-539f-3b51-b467-dde069459abb/dj.lmsnrlmh.jpg/450x450bb.jpg",
+      "status": "history",
+      "time": "2023-10-08T01:27:02Z",
+      "title": "I Loved You (Feat. Melissa Steel)"
+    },
+    {
+      "artist": "Storm",
+      "duration": "00:02:55",
+      "iTunesTrackUrl": "https://itunes.apple.com/gb/album/time-to-burn/id1194749456?i=1194749959&uo=4",
+      "imageUrl": "http://is4.mzstatic.com/image/thumb/Music111/v4/6c/d3/b1/6cd3b111-d588-3d05-9add-2be3b869c2bd/source/450x450bb.jpg",
+      "status": "history",
+      "time": "2023-10-08T01:24:10Z",
+      "title": "Time to Burn"
+    },
+    {
+      "artist": "Haddaway",
+      "duration": "00:03:56",
+      "iTunesTrackUrl": "https://itunes.apple.com/gb/album/what-is-love/id290007796?i=290007802&uo=4",
+      "imageUrl": "http://is2.mzstatic.com/image/thumb/Music/v4/cf/04/61/cf0461cd-43c9-e863-6514-b30bba90b804/source/450x450bb.jpg",
+      "status": "history",
+      "time": "2023-10-08T01:20:13Z",
+      "title": "What Is Love"
+    },
+    {
+      "artist": "David Guetta",
+      "duration": "00:02:38",
+      "iTunesTrackUrl": "https://music.apple.com/gb/album/family-affair-dance-for-me-extended/1633108165?i=1633108554&uo=4",
+      "imageUrl": "https://is3-ssl.mzstatic.com/image/thumb/Music112/v4/1d/dc/95/1ddc956a-3138-6da9-ac04-971918064836/5054197242885.jpg/450x450bb.jpg",
+      "status": "history",
+      "time": "2023-10-08T01:17:28Z",
+      "title": "Family Affair (Dance for Me)"
+    },
+    {
+      "artist": "2 Unlimited",
+      "duration": "00:03:16",
+      "iTunesTrackUrl": "https://itunes.apple.com/gb/album/no-limit/id1002435693?i=1002436935&uo=4",
+      "imageUrl": "http://is5.mzstatic.com/image/thumb/Music7/v4/92/a9/03/92a903b4-6550-4988-73f7-b08ca20f7857/source/450x450bb.jpg",
+      "status": "history",
+      "time": "2023-10-08T01:14:13Z",
+      "title": "No Limits"
+    },
+    {
+      "artist": "Ultrabeat",
+      "duration": "00:03:21",
+      "iTunesTrackUrl": "https://itunes.apple.com/gb/album/pretty-green-eyes/id262881940?i=262881963&uo=4",
+      "imageUrl": "http://is1.mzstatic.com/image/thumb/Music/v4/2c/5e/81/2c5e8140-67a3-d9cb-3714-1369d4bf2bbe/source/450x450bb.jpg",
+      "status": "history",
+      "time": "2023-10-08T01:10:54Z",
+      "title": "Pretty Green Eyes"
+    },
+    {
+      "artist": "Flip & Fill",
+      "duration": "00:03:03",
+      "iTunesTrackUrl": "https://music.apple.com/gb/album/discoland-sy-unknown-remix/1440769286?i=1440773208&uo=4",
+      "imageUrl": "https://is1-ssl.mzstatic.com/image/thumb/Music118/v4/5b/75/91/5b7591be-2be6-c7bf-4883-500fa5f4a010/00600753771228.rgb.jpg/450x450bb.jpg",
+      "status": "history",
+      "time": "2023-10-08T01:03:34Z",
+      "title": "Discoland"
+    },
+    {
+      "artist": "Underworld",
+      "duration": "00:03:37",
+      "iTunesTrackUrl": "https://itunes.apple.com/gb/album/born-slippy-nuxx-radio-edit/id1196303957?i=1196304152&uo=4",
+      "imageUrl": "http://is5.mzstatic.com/image/thumb/Music111/v4/b4/fc/42/b4fc42db-3841-5797-f4bd-4350d624c5f8/source/450x450bb.jpg",
+      "status": "history",
+      "time": "2023-10-08T01:00:00Z",
+      "title": "Born Slippy"
+    },
+    {
+      "artist": "Meghan Trainor",
+      "duration": "00:02:20",
+      "iTunesTrackUrl": "https://music.apple.com/gb/album/made-you-look/1630437323?i=1630437329&uo=4",
+      "imageUrl": "https://is2-ssl.mzstatic.com/image/thumb/Music112/v4/e2/b6/c9/e2b6c962-e585-85c5-841b-64c01aa35834/196589214188.jpg/450x450bb.jpg",
+      "status": "history",
+      "time": "2023-10-08T00:58:18Z",
+      "title": "Made You Look"
+    },
+    {
+      "artist": "Billen Ted",
+      "duration": "00:02:31",
+      "iTunesTrackUrl": "https://music.apple.com/gb/album/when-youre-out-feat-mae-muller/1565959646?i=1565959923&uo=4",
+      "imageUrl": "https://is4-ssl.mzstatic.com/image/thumb/Music115/v4/53/4d/05/534d059a-d224-8684-a426-89e6b8a9ea01/886449255252.jpg/450x450bb.jpg",
+      "status": "history",
+      "time": "2023-10-08T00:55:43Z",
+      "title": "When You're Out (Feat. Mae Muller)"
+    },
+    {
+      "artist": "Bodyrox",
+      "duration": "00:02:41",
+      "iTunesTrackUrl": "https://music.apple.com/gb/album/yeah-yeah-feat-luciana-d-ramirez-instrumental/375957096?i=375957652&uo=4",
+      "imageUrl": "https://is4-ssl.mzstatic.com/image/thumb/Music124/v4/5f/85/bb/5f85bbf3-de53-a9e2-4e81-3d07080eb080/mzi.mnsosfnc.jpg/450x450bb.jpg",
+      "status": "history",
+      "time": "2023-10-08T00:53:07Z",
+      "title": "Yeah Yeah (D Ramirez Vocal Radio Edit)"
+    }
+  ]
+}
