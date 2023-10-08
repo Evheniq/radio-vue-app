@@ -1,12 +1,12 @@
 <script setup lang="ts">
-import TrackItem from "./components/TrackItem.vue";
-import { ref, onMounted, onUnmounted } from 'vue'
-import {ITrack} from "./types/track.ts";
+import {ref, onUnmounted, onBeforeMount} from 'vue'
 import {TrackService} from "./services/track.service.ts";
+import TrackItem from "./components/TrackItem.vue";
+import {ITrack} from "./types/track.ts";
 
 const playingTrack = ref<ITrack | null>(null)
 const historyTracks = ref<ITrack[]>([])
-const errorMessage = ref<String | null>('')
+const errorMessage = ref<String | null>(null)
 
 const trackService = new TrackService()
 
@@ -20,7 +20,9 @@ const updateTracks = async () => {
 }
 
 const intervalId = setInterval(updateTracks, 2000);
-onMounted(updateTracks);
+onBeforeMount(async () => {
+  await updateTracks()
+});
 
 onUnmounted(() => clearInterval(intervalId));
 </script>
@@ -28,9 +30,15 @@ onUnmounted(() => clearInterval(intervalId));
 <template>
 <main>
   <div class="container">
-    <track-item v-for="track in historyTracks" :key="track.title" :trackData="track" :isPlaying="false"/>
-    <track-item :trackData="playingTrack" :isPlaying="true" v-if="playingTrack"/>
-    <div v-if="errorMessage" class="error-block">
+    <template v-if="!errorMessage">
+      <div class="history-items">
+        <track-item v-for="track in historyTracks" :key="track.title" :trackData="track" :isPlaying="false"/>
+      </div>
+      <div class="playing-item">
+        <track-item :trackData="playingTrack" :isPlaying="true" v-if="playingTrack"/>
+      </div>
+    </template>
+    <div v-else class="error-block">
       {{ errorMessage }}
     </div>
   </div>
